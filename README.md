@@ -19,7 +19,7 @@ Node.js, Express, MongoDB, React, Vite
 
 ## System Architecture
 
-![Quick-Aid system architecture](screenshots/system-architecture.png)
+<img width="709" height="424" alt="image" src="https://github.com/user-attachments/assets/e063c3cf-8ee9-4134-800c-3c2e0a22b68e" />
 
 Flow summary:
 - Hospital staff update live status through the Quick-Aid API server.
@@ -29,26 +29,28 @@ Flow summary:
 
 ## Screenshots
 
-### Admin panel
+#### Admin panel
 
-![Admin panel](screenshots/admin-panel.png)
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/3174c0a4-f537-419c-81a2-b6252be12398" />
 
 Role-based control surface for hospital admin operations.
 
-### Hospital profile onboarding
+#### Hospital profile onboarding
 
-![Hospital profile onboarding](screenshots/hospital-profile-onboarding.png)
+<img width="1900" height="915" alt="image" src="https://github.com/user-attachments/assets/9c0529a9-62d7-4f1b-bb09-736245f179a3" />
 
 Structured profile and location capture with map-assisted address handling.
 
-### Staff access management
+#### Staff access management
 
-![Staff access management](screenshots/staff-access-management.png)
+<img width="1918" height="916" alt="image" src="https://github.com/user-attachments/assets/5b7bc2af-a422-4522-9f90-156f8665e40e" />
 
 Centralized staff identity and access provisioning workflow.
 
-### Dispatcher search
+#### Dispatcher search
 
-![Dispatcher search](screenshots/dispatcher-search.png)
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/9f4748cc-5bc0-4f16-8631-447e85f25e26" />
+
+
 
 Emergency-type and location-driven hospital discovery interface.
